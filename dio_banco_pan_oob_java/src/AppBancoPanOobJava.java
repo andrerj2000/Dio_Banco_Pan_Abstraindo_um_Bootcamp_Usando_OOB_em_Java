@@ -40,7 +40,7 @@ public class AppBancoPanOobJava {
         bootCamp.getConteudos().add(mentoria);
 
         Dev devAndre = new Dev();
-        devAndre.setNome("Andre luis");
+        devAndre.setNome("Andre luis Pereira");
         devAndre.inscreverBootCamp(bootCamp);
 
         devAndre.progredir();
